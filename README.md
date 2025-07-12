@@ -11,10 +11,10 @@ and designed for clear understanding and practical application.
 ## 📚 Topics Covered (Progress Checklist)
 
 ### 📁 01 - Basics
-- [ ] Hello World in C
-- [ ] Variables and Data Types
-- [ ] Input / Output
-- [ ] Constants and Macros
+- [x] Hello World in C
+- [x] Variables and Data Types
+- [x] Input / Output
+- [x] Constants and Macros
 
 ### 📁 02 - Conditions
 - [ ] If / Else Statements
