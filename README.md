@@ -15,6 +15,7 @@ and designed for clear understanding and practical application.
 - [x] Variables and Data Types
 - [x] Input / Output
 - [x] Constants and Macros
+- [x] Bonus: Circle Area & Circumference with MAX_RADIUS check
 
 ### 📁 02 - Conditions
 - [ ] If / Else Statements
